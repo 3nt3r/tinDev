@@ -1,2 +1,2 @@
 # tinDev
-Código da semana omnistack 8.0 onde foi desenvolvido um aplicativo Web e Mobile completo baseado no Tinder.
+Código da semana Omnistack 8 onde foi desenvolvido um aplicativo Web e Mobile baseado no Tinder.
